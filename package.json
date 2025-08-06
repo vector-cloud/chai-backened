@@ -1,0 +1,17 @@
+{
+  "name": "chai-aur-backened",
+  "version": "1.0.0",
+  "description": "backened a journey",
+  "keywords": [
+    "javascript",
+    "backened",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "yash goswami",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
